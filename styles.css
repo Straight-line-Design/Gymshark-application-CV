@@ -1,0 +1,78 @@
+.body {
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+}
+
+
+h1, h2, h3, h4, h5,h6 {
+letter-spacing: 1px;
+}
+
+section {
+padding: 40px 0;
+}
+
+.bg-img {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%), url(Hero-sm.JPG);
+  background-size: cover;
+  max-width: 100%;
+  height: 85vh;
+  background-position: center;
+  position: relative;
+}
+
+.title-box {
+  position: absolute;
+  bottom: 3rem;
+  left: 3rem;
+  color: white;
+}
+
+.button {
+  border-radius: 50px;
+  padding: 15px 30px;
+  background-color: white;
+  font-size: 13px;
+  border: none;
+  color: black;
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+
+.bg-img-2 {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%), url(lifting.jpg);
+  background-size: cover;
+  max-width: 100%;
+  height: 85vh;
+  background-position: top;
+  position: relative;
+}
+
+
+
+#story {
+  background-color: WhiteSmoke;
+}
+
+.container-hero {
+  padding: 4rem 0;
+}
+
+#Education {
+  background-color: WhiteSmoke;
+}
+
+.education {
+  text-align: center;
+}
+
+
+
+#footer {
+  text-align: center;
+  size: 10px;
+  background-color: white;
+  padding: 7% 15%;
+}
